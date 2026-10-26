@@ -1,0 +1,633 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 11 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+/Annots [ 13 0 R ]
+>>
+endobj
+4 0 obj
+<<
+/Length 11472
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48.18898 745.4047 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 23.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL (Anahat Basnet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.4252 3 cm
+q
+BT 1 0 0 1 0 36.2 Tm 114.1362 0 Td 11.2 TL /F1 8.6 Tf 0 0 0 rg (anahatbasnet1@gmail.com \267 +977 986 128 8992) Tj  T* 115.111 0 Td (Kathmandu, Nepal) Tj  T* -192.6572 0 Td (github.com/anahatbasnet \267 linkedin.com/in/anahat-basnet-7a34bb263) Tj  T* 206.9934 0 Td (anahat.com.np) Tj T* -243.5834 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 734.2047 cm
+q
+BT 1 0 0 1 0 2.6 Tm 11.2 TL /F1 8.6 Tf 0 0 0 rg (Software Engineer \267 Grails, Java & React) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 715.2047 cm
+q
+.043137 .419608 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 667.4047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.2 Tm /F1 8.6 Tf 11.2 TL -0.01021 Tw (Software engineer working across frontend, backend and system integrations. Builds healthcare software for the US market with) Tj T* 0 Tw (Grails, Groovy and React at Cedar Gate Technologies, with unit tests in Jest and end-to-end tests in Playwright. Previously built) Tj T* (payment, telecom and notification services in Java for the MOCO app at FocusOne Payment Solutions, and full-stack) Tj T* (applications with Spring Boot and React.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 648.4047 cm
+q
+.043137 .419608 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.18898 566.2047 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Backend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.0315 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Java, Python, Groovy, Grails, Spring Boot, Spring Security, Quarkus, Javalin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 53.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Frontend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.0315 53.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (React, Redux Toolkit, Redux Persist, JavaScript, HTML/CSS, Tailwind CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 40.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.0315 40.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (MySQL, PostgreSQL, Hibernate/JPA, GORM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 27.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.0315 27.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (REST, SOAP, NATS.io, Firebase Cloud Messaging, Salesforce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 14.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.0315 14.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Jest, Playwright) Tj T* ET
+Q
+Q
+q
+1 0 0 1 0 1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Workflow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.0315 1 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Git, Postman, Agile/Scrum) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 547.2047 cm
+q
+.043137 .419608 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.18898 529.0047 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Software Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.1575 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 84.64256 0 Td (Apr 2026 \226 Present) Tj T* -84.64256 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 517.8047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Cedar Gate Technologies \267 Kathmandu, Nepal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 495.4047 cm
+q
+BT 1 0 0 1 0 13.8 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 13.8 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Build and maintain healthcare software for the US market on Operations Manager, an internal platform used by) Tj T* -0.5 0 Td (cross-functional teams.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 484.2047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Develop backend services in Grails and Groovy on the JVM \(Gradle\) and frontend features in React with Redux Toolkit.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 473.0047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Write unit tests with Jest and end-to-end tests with Playwright to keep releases stable.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 461.8047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Deliver features, integrations and maintenance in an Agile/Scrum team.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 450.6047 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.6 Tm /F3 8.6 Tf 11.2 TL (Stack: Java, Groovy, Grails, GORM, React, Redux Toolkit, Salesforce, Jest, Playwright) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.18898 435.4047 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Associate Software Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.1575 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 76.03396 0 Td (Jun 2024 \267 11 months) Tj T* -76.03396 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 424.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (FocusOne Payment Solutions \267 MOCO app) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 401.8047 cm
+q
+BT 1 0 0 1 0 13.8 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 13.8 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Built the backend of the flight system: users book, pay for and cancel flights in the MOCO app, and operators follow every) Tj T* -0.5 0 Td (transaction in a web app.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 390.6047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Built the telecom service for phone top-ups, data packs and phone bill payments.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 379.4047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Built a NATS.io notification service that delivers SMS, email and push \(FCM\) messages to users and merchants.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 368.2047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Developed REST and SOAP APIs with Javalin and Quarkus, and managed the MySQL databases behind them.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 357.0047 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.6 Tm /F3 8.6 Tf 11.2 TL (Stack: Java, Javalin, Quarkus, MySQL, NATS.io, FCM, REST, SOAP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.18898 341.8047 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Java Intern) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.1575 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 77.94316 0 Td (Feb 2024 \226 Apr 2024) Tj T* -77.94316 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 330.6047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (Nepal Clearing House Limited \(NCHL\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 319.4047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Built three full-stack applications: an Employee Management System, a Bike Rental app and a Banking app.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 308.2047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Developed Spring Boot backend services over PostgreSQL and React user interfaces.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 297.0047 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.6 Tm /F3 8.6 Tf 11.2 TL (Stack: Java, Spring Boot, PostgreSQL, React) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.18898 281.8047 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Jr. Frontend Developer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.1575 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 76.98856 0 Td (Jun 2023 \226 Dec 2023) Tj T* -76.98856 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 270.6047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (SoAni Tech Nepal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 259.4047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Built and maintained React features for the Eknepal news portal.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 248.2047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Designed a static website for Sathi Bhai Nepal \(NGO\) and blog pages for Himalayan Blog Pages.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 225.8047 cm
+q
+BT 1 0 0 1 0 13.8 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 13.8 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Integrated the frontend with a Spring Boot and MySQL backend alongside the Java team, testing APIs with Postman; worked) Tj T* -0.5 0 Td (in Agile sprints.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 214.6047 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.6 Tm /F3 8.6 Tf 11.2 TL (Stack: React, Redux Toolkit, Postman) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.18898 199.4047 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 8.6 Tf 11.2 TL (Frontend Developer Intern) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.1575 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL 75.08796 0 Td (Mar 2022 \226 May 2022) Tj T* -75.08796 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 188.2047 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 8.6 Tf 11.2 TL (SoAni Tech Nepal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 165.8047 cm
+q
+BT 1 0 0 1 0 13.8 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 13.8 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Built responsive React interfaces with Redux Toolkit and Redux Persist, and took part in sprint planning, stand-ups and) Tj T* -0.5 0 Td (retrospectives.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 154.6047 cm
+q
+BT 1 0 0 1 0 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 9 2.6 Tm /F1 8.6 Tf 11.2 TL .5 0 Td (Built a YouTube clone, an e-commerce site, a meeting scheduler and a weather app.) Tj T* -0.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 143.4047 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 2.6 Tm /F3 8.6 Tf 11.2 TL (Stack: JavaScript, React, Redux Toolkit, Redux Persist, Tailwind CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 124.4047 cm
+q
+.043137 .419608 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 99.00472 cm
+q
+BT 1 0 0 1 0 13.8 Tm 11.2 TL /F2 8.6 Tf 0 0 0 rg (Bike Rental System) Tj /F1 8.6 Tf ( \267 Spring Boot, Spring Security, React \227 Spring Security separates admins, who manage the bike fleet,) Tj T* (from users, who browse and rent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 76.60472 cm
+q
+BT 1 0 0 1 0 13.8 Tm 11.2 TL /F2 8.6 Tf 0 0 0 rg (Second-Hand Car Price Prediction) Tj /F1 8.6 Tf ( \267 Python \227 Reduces the randomness in preowned car prices, helping users buy preowned) Tj T* (cars.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 65.40472 cm
+q
+BT 1 0 0 1 0 2.6 Tm 11.2 TL /F2 8.6 Tf 0 0 0 rg (Banking App) Tj /F1 8.6 Tf ( \267 Spring Boot, PostgreSQL \227 Transfers, deposits, withdrawals and transaction history across multiple accounts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 43.00472 cm
+q
+BT 1 0 0 1 0 13.8 Tm 11.2 TL /F2 8.6 Tf 0 0 0 rg (E-commerce Website) Tj /F1 8.6 Tf ( \267 React, Redux Toolkit \227 Live product data from the Fakestore API, with listings, search, cart and) Tj T* (checkout.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 304
+>>
+stream
+GarWs9l#D9&-h()^Z)p@G0?%\@PmUWXTb]9D)&_L&^B`Ir1IO!J"p5Vd$B5:0^m4Q#i$/sDqtN#_;->e"O%H'R=r\E)XkS=mpmOYBcUn9/XbNp\NMl`>l*M30M,-_241R8+<sQ-ceYBI,?Orp4%(2pg>cr0fVB$rah>ff%pPEFR+k&XFnMB.39+).YN*AmG]="8Bq7WX,/m!qOs2\D]M*0\Oc3RY:DW%].40\:Ef3hK$AUIpiMi9lI5NjRfT2$ZI_naPaHIY<G&!MT)NYE7SVClsa._cpeE:i<IXMFW(NEV[JH~>
+endstream
+endobj
+11 0 obj
+<<
+>>
+endobj
+12 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 490.19758 748.2245 547.08658 758.1795 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057anahat\056com\056np\057)
+>>
+/P 3 0 R
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000081 00000 n 
+0000000146 00000 n 
+0000000364 00000 n 
+0000011889 00000 n 
+0000011940 00000 n 
+0000012047 00000 n 
+0000012159 00000 n 
+0000012274 00000 n 
+0000012474 00000 n 
+0000012870 00000 n 
+0000012892 00000 n 
+0000012932 00000 n 
+trailer
+<<
+/Size 14
+/Root 1 0 R
+/Info 12 0 R
+>>
+startxref
+13136
+%%EOF

@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body, #root { background: #0C0C0C; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Kanit', sans-serif; color: #D7E2EA; -webkit-font-smoothing: antialiased; }
+
+.hero-heading {
+  background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.contact-btn {
+  background: linear-gradient(123deg, #18011F 7%, #B600A8 37%, #7621B0 72%, #BE4C00 100%);
+  box-shadow: 0px 4px 4px rgba(181, 1, 167, 0.25), 4px 4px 12px #7721B1 inset;
+  outline: 2px solid #fff;
+  outline-offset: -3px;
+  transition: filter 200ms, transform 200ms;
+}
+.contact-btn:hover { filter: brightness(1.12); }
+.contact-btn:focus-visible { outline: 3px solid #fff; outline-offset: 4px; }
+
+:focus-visible { outline: 2px solid #D7E2EA; outline-offset: 4px; border-radius: 6px; }
+.on-light :focus-visible { outline-color: #0C0C0C; }
+
+::selection { background: #7621B0; color: #fff; }
+html { scrollbar-color: #3a3f46 #0C0C0C; }
+
+section[id], footer[id] { scroll-margin-top: 5rem; }
+
+.skip-link { position: absolute; left: -999px; top: 8px; z-index: 100; background: #D7E2EA; color: #0C0C0C; padding: 10px 16px; font-weight: 500; }
+.skip-link:focus { left: 8px; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation: none !important; }
+}
